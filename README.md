@@ -1,4 +1,4 @@
-# 🎧 useGitSynth.ts // The Neural Composition Engine
+# 🎧 useGitSynth.ts 
 
 > "Code isn't just logic. It has a rhythm, a weight, and a psychological temperature."
 
